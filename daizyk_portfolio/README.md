@@ -1,8 +1,8 @@
-# Personal Portfolio Website - PLP Hackathon 1 (July 2025)
+Personal Portfolio Website - PLP Hackathon 1 (July 2025)
 
-Welcome to my personal portfolio website created for the PLP Academy Hackathon 1 (July 2025 Cohort)! 🚀
+Welcome to my personal portfolio website created for the PLP Academy Hackathon 1 (July 2025 Cohort)! 
 
-##  Overview
+ Overview
 
 This portfolio is built with HTML and CSS and showcases:
 
@@ -14,29 +14,27 @@ This portfolio is built with HTML and CSS and showcases:
 -  Contact Form
 - Personal photo and clean design
 
-## Technologies Used
+Technologies Used
 
 - HTML5  
 - CSS3  
 - Git & GitHub  
 - GitHub Pages (for deployment)
 
-##  Live Demo
+ Live Demo
 
-👉 [Click here to view my live portfolio](https://your-username.github.io/plp-portfolio/)  
-*(Replace `your-username` with your actual GitHub username after deployment)*
+ [Click here to view my live portfolio](https://github.com/daizy-jepchumba/plp-portfolio/)  
 
-## 📄 Download CV
+Download CV
 
 A downloadable version of my CV is available in the **Education** section of the website.
-
-## 📬 Contact
+ Contact
 
 Feel free to reach out to me at **daisyjepchum@gmail.com** or via the contact form on the website.
 
 ---
 
-##  PLP Hackathon Evaluation Criteria Met
+PLP Hackathon Evaluation Criteria Met
 
 ✅ Creativity and Ingenuity  
 ✅ Code Quality  
@@ -48,3 +46,4 @@ Feel free to reach out to me at **daisyjepchum@gmail.com** or via the contact fo
 ---
 
 Thank you for visiting! 😊
+
